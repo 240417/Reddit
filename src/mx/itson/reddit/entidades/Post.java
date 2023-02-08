@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- *
+ * El post reunira la informacion de las otras clases
  * @author medin
  */
 public class Post {

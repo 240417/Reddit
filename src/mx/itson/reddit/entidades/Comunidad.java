@@ -8,7 +8,7 @@ package mx.itson.reddit.entidades;
 import java.util.List;
 
 /**
- *
+ * Grupo de personas con intereses en comun
  * @author medin
  */
 public class Comunidad {

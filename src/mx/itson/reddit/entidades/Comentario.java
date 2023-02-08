@@ -10,7 +10,7 @@ import java.util.Date;
 
 
 /**
- *
+ * Opiniones/comentarios del usuario
  * @author medin
  */
 public class Comentario {

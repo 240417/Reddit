@@ -6,7 +6,7 @@
 package mx.itson.reddit.entidades;
 
 /**
- *
+ * Informacion del usuario
  * @author medin
  */
 public class Usuario {
